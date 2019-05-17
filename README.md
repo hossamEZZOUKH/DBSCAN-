@@ -1,1 +1,1 @@
-# DBSCAN-
+# DBSCAN algorithm
